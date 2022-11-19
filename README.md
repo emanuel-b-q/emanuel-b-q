@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux, Security, OpenSource
 - 🌱 I’m currently learning orcharhino, still Linux, Python, PHP  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Matstodon:  @Emanuel_B_Q@home.social
+- 📫 How to reach me Mastodon:  @Emanuel_B_Q@home.social
                      Twitter:    @Emanuel_B_Q
                      
 <!---
